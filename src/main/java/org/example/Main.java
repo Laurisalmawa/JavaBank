@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Bienvenido a JavaBank");
+        System.out.println("Welcome to JavaBank ATM, git version");
     }
 }
